@@ -4,4 +4,4 @@
 .LSOverride
 
 **/*.class
-
+.vscode
